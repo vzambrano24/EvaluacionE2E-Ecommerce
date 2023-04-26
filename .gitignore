@@ -1,0 +1,23 @@
+# Archivos y directorios generados por Cypress
+cypress/videos
+cypress/screenshots
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración del entorno
+.env
+.env.*
+!.gitignore
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
